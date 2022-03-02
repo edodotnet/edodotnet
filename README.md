@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edodotnet
-- 👀 I’m interested in architecture, interior design, web design,... 
+- 👀 I’m interested in web design
 - 🌱 I’m currently learning html5, css3, 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
